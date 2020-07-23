@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "452651685481",
+    "firebase_url": "https://aschoologye.firebaseio.com",
+    "project_id": "aschoologye",
+    "storage_bucket": "aschoologye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452651685481:android:b38beecf08cbdefa59b4f8",
+        "android_client_info": {
+          "package_name": "com.aeru.aschoologye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452651685481-08klvfmhhe8k2vq5p7faggbt4oh31m9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aeru.aschoologye",
+            "certificate_hash": "3f902aba785c64ee47dd757311c7a145ef923bd9"
+          }
+        },
+        {
+          "client_id": "452651685481-bmau60ir9ks4tc84lk5sqa02uep2jeo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKpJiVrO84JS9YtmlGTdYSb3CLy2y41M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452651685481-bmau60ir9ks4tc84lk5sqa02uep2jeo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
